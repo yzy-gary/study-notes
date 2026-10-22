@@ -3,6 +3,8 @@
 > 每个任务给出：要输入的命令（逐字）、要点哪里（Anki/GitHub 界面操作）、做完的检查标准。
 > 环境假设：Windows/Mac/Linux 均可，终端命令以 macOS/Linux 为例，Windows 用 Git Bash 或 PowerShell 同样适用。
 > 建议：第一次执行时开着本文档，一步一步来，走完一遍后面就是肌肉记忆。
+>
+> sk-faf4523edbaf4241b579e761569d3a76
 
 ---
 
